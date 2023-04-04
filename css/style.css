@@ -126,10 +126,28 @@ color: var(--slate);
 .thrid-sections {
 }
 .second-title {
+font-family: "Roboto", sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 40px;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: var(--navy-blue);
 }
 .four-sections {
 }
 .thrid-title {
+font-family: "Roboto", sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 40px;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: var(--navy-blue);
 }
 
 
