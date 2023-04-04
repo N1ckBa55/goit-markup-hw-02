@@ -22,7 +22,7 @@ background-color: var(--white);
 .link { text-decoration: none; 
 }
 .adress-link {
-color: var(--slate);
+color: var(--grey);
 }
 .link:hover, .link:focus {color: var(--ocean); cursor: pointer}
 
@@ -135,11 +135,12 @@ font-weight: 700;
 font-size: 36px;
 line-height: 40px;
 text-align: center;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: var(--navy-blue);
 }
-.four-sections {
+.four-sections {background-color: var(--cloud);
 }
 .thrid-title {
 font-family: "Roboto", sans-serif;
@@ -147,10 +148,14 @@ font-style: normal;
 font-weight: 700;
 font-size: 36px;
 line-height: 40px;
+line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: var(--navy-blue);
+}
+.team-list {
+background-color: var(--white);
 }
 
 
@@ -174,7 +179,7 @@ color: var(--navy-blue);
 background-color: var(--navy-blue);
 }
 .logo-footer {
-font-family: 'Raleway';
+font-family: "Raleway", sans-serif;
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
@@ -186,7 +191,7 @@ text-transform: uppercase;
 color: var(--iris);
 }
 .studio-color {
-font-family: 'Raleway';
+font-family: "Raleway", sans-serif;
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
