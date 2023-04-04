@@ -182,9 +182,24 @@ color: var(--iris);
 .filter-button:hover, .filter-button:focus {background-color: var(--ocean); color: var(--white);}
 
 .description {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.02em;
+line-height: 1.2;
+color: var(--navy-blue);
 }
 .prtf-paragraph{
-
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+line-height: 1.5;
+color: var(--slate);
 }
 
 
