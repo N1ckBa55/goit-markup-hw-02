@@ -15,18 +15,21 @@
 
 
 
-.list { background-color: var(--white); list-style: none; font-size: 16px; 
-line-height: 1.5; letter-spacing: 0.02em; color: var(--navy-blue); }
+.list { background-color: var(--white); color:#434455 ;list-style: none; font-size: 16px; 
+line-height: 1.5; letter-spacing: 0.02em;  color: var(--navy-blue); }
 
 .link { text-decoration: none; font-weight: 500; font-size: 16px; line-height: 1.5;
 letter-spacing: 0.02em; color:var(--navy-blue-modal); }
 .link:hover, .link:focus {color: var(--ocean);}
 .sections {background-color: var(--grey); }
 
-.hidden-title { font-size: 36px; text-transform: capitalize; line-height: 1.11; text-align: center; letter-spacing: 0.02em; 
-color: var(--grey); }
+.first-title { font-size: 56px; text-transform: capitalize; line-height: 1.07; text-align: center; letter-spacing: 0.02em; 
+color: var(--white); }
+.second-title {font-size: 36px; line-height: 1.11;  text-align: center;
+letter-spacing: 0.02em; text-transform: capitalize; 
+color: var(--grey);}
 
-.title {line-height: 1.11; letter-spacing: 0.02em; text-align: center;
+.thrid-title {line-height: 1.11; letter-spacing: 0.02em; text-align: center;
 text-transform: capitalize; color: var(--grey);
 background-color: var(--cloud); font-size: 36px;}
 
