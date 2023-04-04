@@ -22,6 +22,7 @@ line-height: 1.5; letter-spacing: 0.02em;  color: var(--navy-blue); }
 letter-spacing: 0.02em; color:var(--navy-blue-modal); }
 .link:hover, .link:focus {color: var(--ocean);}
 .sections {background-color: var(--grey); }
+.section-thrid {background-color: var(--cloud);}
 
 .first-title { font-size: 56px; text-transform: capitalize; line-height: 1.07; text-align: center; letter-spacing: 0.02em; 
 color: var(--white); }
@@ -31,7 +32,7 @@ color: var(--grey);}
 
 .thrid-title {line-height: 1.11; letter-spacing: 0.02em; text-align: center;
 text-transform: capitalize; color: var(--grey);
-background-color: var(--cloud); font-size: 36px;}
+background-color: var(--cloud); background-color: #F4F4FD; font-size: 36px;}
 
 .order-button{ background-color: var(--iris); font-family: "Roboto", sans-serif;  font-weight: 500;
 font-size: 16px ; line-height: 1.5; letter-spacing: 0.04em; color: var(--white);  cursor: pointer;}
