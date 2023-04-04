@@ -21,7 +21,7 @@ background-color: var(--white);
 }
 .link { text-decoration: none;
 }
-.link:hover, .link:focus {color: var(--iris)}
+.link:hover, .link:focus {color: var(--ocean)}
 
 .list {list-style: none;
 }
@@ -41,7 +41,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: var(--navy-blue);
+color: var(--slate);
 
 }
 
