@@ -57,6 +57,7 @@ body { font-family: "Roboto", sans-serif; color: var(--slate); background-color:
 font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em;
 color: var(--iris); background-color: var(--cloud);}
 
+.filter-button:hover, .filter-button:focus {color: var(--white); background-color: var(--ocean);}
 /* Portfolio project cards */
 .description {font-weight: 500; font-size: 20px; line-height: 1.2; 
 letter-spacing: 0.02em; color:var(--grey); }
