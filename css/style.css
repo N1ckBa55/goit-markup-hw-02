@@ -15,24 +15,25 @@
 
 
 
-.list { list-style: none; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;
-color:var(--slate); }
+.list { background-color: var(--white); list-style: none; font-size: 16px; 
+line-height: 1.5; letter-spacing: 0.02em; color: var(--navy-blue); }
 
 .link { text-decoration: none; font-weight: 500; font-size: 16px; line-height: 1.5;
 letter-spacing: 0.02em; color:var(--navy-blue-modal); }
 .link:hover, .link:focus {color: var(--ocean);}
 .sections {background-color: var(--grey); }
 
-.title{ font-size: 56px; line-height: 1.07; text-align: center; letter-spacing: 0.02em; 
-color: var(--white); }
+.hidden-title { font-size: 36px; text-transform: capitalize; line-height: 1.11; text-align: center; letter-spacing: 0.02em; 
+color: var(--grey); }
+
+.title {line-height: 1.11; letter-spacing: 0.02em; text-align: center;
+text-transform: capitalize; color: var(--grey);
+background-color: var(--cloud); font-size: 36px;}
 
 .order-button{ background-color: var(--iris); font-family: "Roboto", sans-serif;  font-weight: 500;
 font-size: 16px ; line-height: 1.5; letter-spacing: 0.04em; color: var(--white);  cursor: pointer;}
 
-.order-button:focus, .order-button:hover {color: var(--ocean);}
-
-.hidden-title {}
-.title{}
+.order-button:focus, .order-button:hover {background-color: var(--ocean); color: var(--white)}
 
 .cards-title{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;
 color: #2e2f42;}
