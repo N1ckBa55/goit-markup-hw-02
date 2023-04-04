@@ -104,8 +104,22 @@ color: var(--white);
 .hidden-title {
 }
 .cards-title {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: var(--navy-blue);
 }
 .std-paragraph {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: var(--slate);
 }
 .thrid-sections {
 }
