@@ -187,6 +187,7 @@ line-height: 21px;
 display: flex;
 align-items: center;
 letter-spacing: 0.03em;
+line-height: 1.17;
 text-transform: uppercase;
 color: var(--iris);
 }
@@ -199,6 +200,7 @@ line-height: 21px;
 display: flex;
 align-items: center;
 letter-spacing: 0.03em;
+line-height: 1.17;
 text-transform: uppercase;
 color: var(--cloud);
 }
