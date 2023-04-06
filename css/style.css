@@ -81,6 +81,7 @@ line-height: 1.07;
 color: var(--white);
 }
 .order-button {
+font-family: "Roboto", sans-serif;
 background-color: var(--iris);
 font-weight: 500;
 font-size: 16px;
@@ -100,7 +101,7 @@ cursor: pointer;
 .cards-title {
 font-weight: 500;
 font-size: 20px;
-line-height: 1.5;
+line-height: 1.2;
 letter-spacing: 0.02em;
 color: var(--navy-blue);
 }
@@ -109,7 +110,7 @@ font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: var(--cloud);
+color: var(--slate);
 }
 .thrid-sections {
 }
@@ -145,6 +146,7 @@ background-color: var(--white);
 .prtf-hidden-title {
 }
 .filter-button {
+font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 16px;
 display: flex;
@@ -175,6 +177,9 @@ color: var(--slate);
 
 
 /* Footer */
+.foter-paragraph {
+color: var(--cloud);
+}
 .footer {
 background-color: var(--navy-blue);
 }
